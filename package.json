@@ -1,0 +1,23 @@
+{
+  "name": "bar_chart",
+  "version": "1.0.0",
+  "description": "A barinnln graph showing US GDP. A FCCC data visualization project.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon . -rs"
+  },
+  "keywords": [
+    "fccc",
+    "d3",
+    "data",
+    "bar_chart",
+    "project"
+  ],
+  "author": "J.A. HOLT",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^7.8.5",
+    "nodemon": "^3.0.1"
+  }
+}
